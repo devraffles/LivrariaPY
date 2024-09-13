@@ -18,6 +18,6 @@ Esse repositorio tem uma dashborad e reviews dos top 100 livros da amzon em 2023
 
 ## Execução
   Para executar o código é só abrir um teminal e digitar:
-   ```bash
-     streamlit run dash.py
-   ```
+```bash
+streamlit run dash.py
+```
